@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Tonkerbox
 - 👀 I’m interested in game dev
 - 🌱 I’m currently learning electrical engineering
 
