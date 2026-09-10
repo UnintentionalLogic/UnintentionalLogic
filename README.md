@@ -2,6 +2,12 @@
 
 **Check out some of my projects!**
 
+**Gendo The Gatherer:**
+
+My current game in development:
+
+https://store.steampowered.com/app/3680120/Gendo_The_Gatherer/
+
 **Electronic Band Visualizer:**
 
 Si Band, Diode, Shottky Diode and MOS!
@@ -13,12 +19,6 @@ https://github.com/UnintentionalLogic/Electronic-Devices-Project-Showcase
 Rectifier to Buck Converter Circuit!
 
 https://github.com/UnintentionalLogic/Rectifier-Buck-Converter-Project
-
-**Gendo The Gatherer:**
-
-My current game in development:
-
-https://store.steampowered.com/app/3680120/Gendo_The_Gatherer/
 
 **Convolution Visualizer:**
 
